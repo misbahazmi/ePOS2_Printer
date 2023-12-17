@@ -1,0 +1,174 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.epson.epos2_printer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:4:5-66
+11-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission
+12-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:5:5-6:70
+13        android:name="android.permission.BLUETOOTH_SCAN"
+13-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:5:22-70
+14        android:usesPermissionFlags="neverForLocation" />
+14-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:6:22-68
+15    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+15-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:7:5-75
+15-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:7:22-73
+16
+17    <!-- Request legacy permissions on older devices. -->
+18    <uses-permission
+18-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:10:5-11:50
+19        android:name="android.permission.BLUETOOTH"
+19-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:10:22-65
+20        android:maxSdkVersion="30" />
+20-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:11:22-48
+21    <uses-permission
+21-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:12:5-13:50
+22        android:name="android.permission.BLUETOOTH_ADMIN"
+22-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:12:22-71
+23        android:maxSdkVersion="30" />
+23-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:13:22-48
+24    <uses-permission
+24-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:14:5-15:50
+25        android:name="android.permission.ACCESS_FINE_LOCATION"
+25-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:14:22-76
+26        android:maxSdkVersion="30" />
+26-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:15:22-48
+27    <uses-permission
+27-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:16:5-17:50
+28        android:name="android.permission.ACCESS_COARSE_LOCATION"
+28-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:16:22-78
+29        android:maxSdkVersion="28" />
+29-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:17:22-48
+30
+31    <application
+31-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:19:5-68:19
+32        android:allowBackup="true"
+32-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:20:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.2.0] /Users/misbah/.gradle/caches/transforms-3/a69ac49dd49309f81d90663949a2d98d/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
+34        android:debuggable="true"
+35        android:icon="@mipmap/ic_launcher"
+35-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:21:9-43
+36        android:label="@string/app_name"
+36-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:22:9-41
+37        android:testOnly="true"
+38        android:theme="@style/AppTheme" >
+38-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:23:9-40
+39        <activity
+39-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:24:9-26:62
+40            android:name="com.epson.epos2_printer.SettingActivity"
+40-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:25:13-44
+41            android:screenOrientation="portrait" />
+41-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:26:13-49
+42        <activity
+42-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:27:9-29:62
+43            android:name="com.epson.epos2_printer.PrinterSettingExActivity"
+43-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:28:13-53
+44            android:screenOrientation="portrait" />
+44-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:29:13-49
+45        <activity
+45-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:30:9-32:62
+46            android:name="com.epson.epos2_printer.PrinterSettingActivity"
+46-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:31:13-51
+47            android:screenOrientation="portrait" />
+47-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:32:13-49
+48        <activity
+48-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:33:9-35:62
+49            android:name="com.epson.epos2_printer.FirmwareUpdateActivity"
+49-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:34:13-51
+50            android:screenOrientation="portrait" />
+50-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:35:13-49
+51        <activity
+51-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:36:9-38:62
+52            android:name="com.epson.epos2_printer.MonitorActivity"
+52-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:37:13-44
+53            android:screenOrientation="portrait" />
+53-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:38:13-49
+54        <activity
+54-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:39:9-41:62
+55            android:name="com.epson.epos2_printer.SingleMonitorActivity"
+55-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:40:13-50
+56            android:screenOrientation="portrait" />
+56-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:41:13-49
+57        <activity
+57-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:42:9-44:62
+58            android:name="com.epson.epos2_printer.MultipleMonitorActivity"
+58-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:43:13-52
+59            android:screenOrientation="portrait" />
+59-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:44:13-49
+60        <activity
+60-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:45:9-62:20
+61            android:name="com.epson.epos2_printer.MainActivity"
+61-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:46:13-41
+62            android:exported="true"
+62-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:49:13-36
+63            android:label="@string/app_title"
+63-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:47:13-46
+64            android:screenOrientation="portrait" >
+64-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:48:13-49
+65            <intent-filter>
+65-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:50:13-56:29
+66                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+66-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:51:17-90
+66-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:51:25-87
+67                <action android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED" />
+67-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:52:17-93
+67-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:52:25-90
+68                <action android:name="android.intent.action.MAIN" />
+68-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:53:17-69
+68-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:53:25-66
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:55:17-77
+70-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:55:27-74
+71            </intent-filter>
+72
+73            <meta-data
+73-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:57:13-58:57
+74                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+74-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:57:24-86
+75                android:resource="@xml/device_filter" />
+75-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:58:17-54
+76            <meta-data
+76-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:59:13-60:60
+77                android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED"
+77-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:59:24-89
+78                android:resource="@xml/accessory_filter" />
+78-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:60:17-57
+79        </activity>
+80        <activity
+80-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:63:9-67:20
+81            android:name="com.epson.epos2_printer.DiscoveryActivity"
+81-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:64:13-46
+82            android:label="@string/app_title"
+82-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:65:13-46
+83            android:screenOrientation="portrait" >
+83-->/Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:66:13-49
+84        </activity>
+85        <activity
+85-->[com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:23:9-26:75
+86            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+86-->[com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:24:13-79
+87            android:exported="false"
+87-->[com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:25:13-37
+88            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+88-->[com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:26:13-72
+89
+90        <meta-data
+90-->[com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
+91            android:name="com.google.android.gms.version"
+91-->[com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58
+92            android:value="@integer/google_play_services_version" />
+92-->[com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
+93    </application>
+94
+95</manifest>

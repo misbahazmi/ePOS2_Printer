@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.epson.epos2_printer.app-mergeDebugResources-7:/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/Users/misbah/.gradle/caches/transforms-3/a69ac49dd49309f81d90663949a2d98d/transformed/core-1.2.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        }
+    ]
+}

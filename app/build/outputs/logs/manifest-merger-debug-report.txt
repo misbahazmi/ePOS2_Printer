@@ -1,0 +1,289 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:1-70:12
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/misbah/.gradle/caches/transforms-3/17a9f11f490f48e74b785b44a236286e/transformed/jetified-play-services-location-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/misbah/.gradle/caches/transforms-3/bf61c0c57cc0d489ebbf628a52003894/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/misbah/.gradle/caches/transforms-3/5cd09b8d79198578d98133c57f3f6302/transformed/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/misbah/.gradle/caches/transforms-3/c466a60526b5502f9bd0d1d1bb158485/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/misbah/.gradle/caches/transforms-3/6f4cf2cb35c47d17921b94da466ddd14/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/misbah/.gradle/caches/transforms-3/a61c2d4983323a51da309006fb183f36/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/misbah/.gradle/caches/transforms-3/7c6cc33902cfba267b0bbffb8979f4f1/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/misbah/.gradle/caches/transforms-3/d4309172a136c0c4646068231dcb533f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/90a94bf604a65fdcc75381e9589559bd/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/b66e3f1dcfff3e3c4d10e53ae1f98ab4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/9cb61205212133b5d73e9b82c23ec748/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/misbah/.gradle/caches/transforms-3/864549ae1515bdeffbf968a423999960/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/52d0eacd84d5e036bfdf0a02c7fc5a5f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/misbah/.gradle/caches/transforms-3/b8a3dd9345408991593f3bf359399b08/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/misbah/.gradle/caches/transforms-3/a69ac49dd49309f81d90663949a2d98d/transformed/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/misbah/.gradle/caches/transforms-3/badfc14817353b6065b9a3224afef766/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/misbah/.gradle/caches/transforms-3/fd027d76d41a861116a821e323b073ba/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/misbah/.gradle/caches/transforms-3/2b186def15f8766fdce5f0101fb28c92/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/misbah/.gradle/caches/transforms-3/3396d879cfc90d5e7df38dd106d073e8/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/misbah/.gradle/caches/transforms-3/1be09ec5030ccffe166c5a89d0ae4281/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/misbah/.gradle/caches/transforms-3/7d35929cf52d18d077141da269870978/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/misbah/.gradle/caches/transforms-3/1808fa60ef65dfd331c0d005c567d21e/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/misbah/.gradle/caches/transforms-3/03af1d35bbed70421553f3a5af448168/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/misbah/.gradle/caches/transforms-3/b8d6d42e60bad0d38e0dca4d2ac157c5/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/misbah/.gradle/caches/transforms-3/ef125129ce70e4b5dfbce819bb42c9ee/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/misbah/.gradle/caches/transforms-3/c2db9e0cece995a06cf4a4586ff0f3e5/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:1-70:12
+	package
+		INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:5:5-6:70
+	android:usesPermissionFlags
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:6:22-68
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:5:22-70
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:10:5-11:50
+	android:maxSdkVersion
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:11:22-48
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:12:5-13:50
+	android:maxSdkVersion
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:13:22-48
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:14:5-15:50
+	android:maxSdkVersion
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:15:22-48
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:16:5-17:50
+	android:maxSdkVersion
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:17:22-48
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:16:22-78
+application
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:19:5-68:19
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/misbah/.gradle/caches/transforms-3/17a9f11f490f48e74b785b44a236286e/transformed/jetified-play-services-location-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/misbah/.gradle/caches/transforms-3/17a9f11f490f48e74b785b44a236286e/transformed/jetified-play-services-location-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/misbah/.gradle/caches/transforms-3/bf61c0c57cc0d489ebbf628a52003894/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/misbah/.gradle/caches/transforms-3/bf61c0c57cc0d489ebbf628a52003894/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/misbah/.gradle/caches/transforms-3/5cd09b8d79198578d98133c57f3f6302/transformed/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/misbah/.gradle/caches/transforms-3/5cd09b8d79198578d98133c57f3f6302/transformed/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/misbah/.gradle/caches/transforms-3/a69ac49dd49309f81d90663949a2d98d/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/misbah/.gradle/caches/transforms-3/a69ac49dd49309f81d90663949a2d98d/transformed/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/misbah/.gradle/caches/transforms-3/badfc14817353b6065b9a3224afef766/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/misbah/.gradle/caches/transforms-3/badfc14817353b6065b9a3224afef766/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/misbah/.gradle/caches/transforms-3/a69ac49dd49309f81d90663949a2d98d/transformed/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.epson.epos2_printer.SettingActivity
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:24:9-26:62
+	android:screenOrientation
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:25:13-44
+activity#com.epson.epos2_printer.PrinterSettingExActivity
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:27:9-29:62
+	android:screenOrientation
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:28:13-53
+activity#com.epson.epos2_printer.PrinterSettingActivity
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:30:9-32:62
+	android:screenOrientation
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:31:13-51
+activity#com.epson.epos2_printer.FirmwareUpdateActivity
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:33:9-35:62
+	android:screenOrientation
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:34:13-51
+activity#com.epson.epos2_printer.MonitorActivity
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:36:9-38:62
+	android:screenOrientation
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:37:13-44
+activity#com.epson.epos2_printer.SingleMonitorActivity
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:39:9-41:62
+	android:screenOrientation
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:40:13-50
+activity#com.epson.epos2_printer.MultipleMonitorActivity
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:42:9-44:62
+	android:screenOrientation
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:43:13-52
+activity#com.epson.epos2_printer.MainActivity
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:45:9-62:20
+	android:screenOrientation
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:47:13-46
+	android:exported
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:46:13-41
+intent-filter#action:name:android.hardware.usb.action.USB_ACCESSORY_ATTACHED+action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:50:13-56:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:51:17-90
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:51:25-87
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:52:17-93
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:52:25-90
+action#android.intent.action.MAIN
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:55:27-74
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:57:13-58:57
+	android:resource
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:58:17-54
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:57:24-86
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:59:13-60:60
+	android:resource
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:60:17-57
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:59:24-89
+activity#com.epson.epos2_printer.DiscoveryActivity
+ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:63:9-67:20
+	android:screenOrientation
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:65:13-46
+	android:name
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml:64:13-46
+uses-sdk
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/misbah/.gradle/caches/transforms-3/17a9f11f490f48e74b785b44a236286e/transformed/jetified-play-services-location-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.1.0] /Users/misbah/.gradle/caches/transforms-3/17a9f11f490f48e74b785b44a236286e/transformed/jetified-play-services-location-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/misbah/.gradle/caches/transforms-3/bf61c0c57cc0d489ebbf628a52003894/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/misbah/.gradle/caches/transforms-3/bf61c0c57cc0d489ebbf628a52003894/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/misbah/.gradle/caches/transforms-3/5cd09b8d79198578d98133c57f3f6302/transformed/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /Users/misbah/.gradle/caches/transforms-3/5cd09b8d79198578d98133c57f3f6302/transformed/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/misbah/.gradle/caches/transforms-3/c466a60526b5502f9bd0d1d1bb158485/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/misbah/.gradle/caches/transforms-3/c466a60526b5502f9bd0d1d1bb158485/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/misbah/.gradle/caches/transforms-3/6f4cf2cb35c47d17921b94da466ddd14/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/misbah/.gradle/caches/transforms-3/6f4cf2cb35c47d17921b94da466ddd14/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/misbah/.gradle/caches/transforms-3/a61c2d4983323a51da309006fb183f36/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/misbah/.gradle/caches/transforms-3/a61c2d4983323a51da309006fb183f36/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/misbah/.gradle/caches/transforms-3/7c6cc33902cfba267b0bbffb8979f4f1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/misbah/.gradle/caches/transforms-3/7c6cc33902cfba267b0bbffb8979f4f1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/misbah/.gradle/caches/transforms-3/d4309172a136c0c4646068231dcb533f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/misbah/.gradle/caches/transforms-3/d4309172a136c0c4646068231dcb533f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/90a94bf604a65fdcc75381e9589559bd/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/90a94bf604a65fdcc75381e9589559bd/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/b66e3f1dcfff3e3c4d10e53ae1f98ab4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/b66e3f1dcfff3e3c4d10e53ae1f98ab4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/9cb61205212133b5d73e9b82c23ec748/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/9cb61205212133b5d73e9b82c23ec748/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/misbah/.gradle/caches/transforms-3/864549ae1515bdeffbf968a423999960/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/misbah/.gradle/caches/transforms-3/864549ae1515bdeffbf968a423999960/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/52d0eacd84d5e036bfdf0a02c7fc5a5f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/misbah/.gradle/caches/transforms-3/52d0eacd84d5e036bfdf0a02c7fc5a5f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/misbah/.gradle/caches/transforms-3/b8a3dd9345408991593f3bf359399b08/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/misbah/.gradle/caches/transforms-3/b8a3dd9345408991593f3bf359399b08/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/misbah/.gradle/caches/transforms-3/a69ac49dd49309f81d90663949a2d98d/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/misbah/.gradle/caches/transforms-3/a69ac49dd49309f81d90663949a2d98d/transformed/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/misbah/.gradle/caches/transforms-3/badfc14817353b6065b9a3224afef766/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/misbah/.gradle/caches/transforms-3/badfc14817353b6065b9a3224afef766/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/misbah/.gradle/caches/transforms-3/fd027d76d41a861116a821e323b073ba/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/misbah/.gradle/caches/transforms-3/fd027d76d41a861116a821e323b073ba/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/misbah/.gradle/caches/transforms-3/2b186def15f8766fdce5f0101fb28c92/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/misbah/.gradle/caches/transforms-3/2b186def15f8766fdce5f0101fb28c92/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/misbah/.gradle/caches/transforms-3/3396d879cfc90d5e7df38dd106d073e8/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/misbah/.gradle/caches/transforms-3/3396d879cfc90d5e7df38dd106d073e8/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/misbah/.gradle/caches/transforms-3/1be09ec5030ccffe166c5a89d0ae4281/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/misbah/.gradle/caches/transforms-3/1be09ec5030ccffe166c5a89d0ae4281/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/misbah/.gradle/caches/transforms-3/7d35929cf52d18d077141da269870978/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/misbah/.gradle/caches/transforms-3/7d35929cf52d18d077141da269870978/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/misbah/.gradle/caches/transforms-3/1808fa60ef65dfd331c0d005c567d21e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/misbah/.gradle/caches/transforms-3/1808fa60ef65dfd331c0d005c567d21e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/misbah/.gradle/caches/transforms-3/03af1d35bbed70421553f3a5af448168/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/misbah/.gradle/caches/transforms-3/03af1d35bbed70421553f3a5af448168/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/misbah/.gradle/caches/transforms-3/b8d6d42e60bad0d38e0dca4d2ac157c5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/misbah/.gradle/caches/transforms-3/b8d6d42e60bad0d38e0dca4d2ac157c5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/misbah/.gradle/caches/transforms-3/ef125129ce70e4b5dfbce819bb42c9ee/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/misbah/.gradle/caches/transforms-3/ef125129ce70e4b5dfbce819bb42c9ee/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/misbah/.gradle/caches/transforms-3/c2db9e0cece995a06cf4a4586ff0f3e5/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/misbah/.gradle/caches/transforms-3/c2db9e0cece995a06cf4a4586ff0f3e5/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.3.0] /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58

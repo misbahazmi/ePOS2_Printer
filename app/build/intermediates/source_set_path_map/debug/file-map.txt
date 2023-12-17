@@ -1,0 +1,12 @@
+com.epson.epos2_printer.app-jetified-play-services-basement-17.3.0-0 /Users/misbah/.gradle/caches/transforms-3/1e1e896bc4718fbdbc5916aac38bb545/transformed/jetified-play-services-basement-17.3.0/res
+com.epson.epos2_printer.app-coordinatorlayout-1.0.0-1 /Users/misbah/.gradle/caches/transforms-3/90a94bf604a65fdcc75381e9589559bd/transformed/coordinatorlayout-1.0.0/res
+com.epson.epos2_printer.app-core-1.2.0-2 /Users/misbah/.gradle/caches/transforms-3/a69ac49dd49309f81d90663949a2d98d/transformed/core-1.2.0/res
+com.epson.epos2_printer.app-jetified-play-services-base-17.3.0-3 /Users/misbah/.gradle/caches/transforms-3/c66984703d5eb12eec93400adcf1a249/transformed/jetified-play-services-base-17.3.0/res
+com.epson.epos2_printer.app-pngs-4 /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/build/generated/res/pngs/debug
+com.epson.epos2_printer.app-resValues-5 /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/build/generated/res/resValues/debug
+com.epson.epos2_printer.app-rs-6 /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/build/generated/res/rs/debug
+com.epson.epos2_printer.app-mergeDebugResources-7 /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.epson.epos2_printer.app-mergeDebugResources-8 /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.epson.epos2_printer.app-merged_res-9 /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/build/intermediates/merged_res/debug
+com.epson.epos2_printer.app-debug-10 /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/debug/res
+com.epson.epos2_printer.app-main-11 /Users/misbah/Downloads/ePOS_SDK_Android_v2.27.0/ePOS_SDK_Sample_Android/ePOS2_Printer/app/src/main/res

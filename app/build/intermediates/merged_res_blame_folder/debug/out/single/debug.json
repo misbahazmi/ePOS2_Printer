@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/xml_device_filter.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/xml/device_filter.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_activity_setting.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_activity_singlemonitor.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/activity_singlemonitor.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_activity_multiplemonitor.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/activity_multiplemonitor.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/drawable-nodpi_wmark.png.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/drawable-nodpi/wmark.png"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_activity_firmwareupdate.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/activity_firmwareupdate.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/drawable-nodpi_coffee.png.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/drawable-nodpi/coffee.png"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_activity_monitor.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/activity_monitor.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_list_at.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/list_at.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_activity_printersetting_ex.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/activity_printersetting_ex.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_activity_discovery.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/activity_discovery.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_activity_printersetting.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/activity_printersetting.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/layout_dialog_progress.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/xml_accessory_filter.xml.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/xml/accessory_filter.xml"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.epson.epos2_printer.app-merged_res-9:/drawable-nodpi_store.png.flat",
+        "source": "com.epson.epos2_printer.app-main-11:/drawable-nodpi/store.png"
+    }
+]
